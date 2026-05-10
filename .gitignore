@@ -1,0 +1,8 @@
+.env
+member_data.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env 
+member_data.json 
