@@ -1,3 +1,8 @@
+import audioop_lts as audioop
+import sys
+
+sys.modules["audioop"] = audioop
+
 import os
 import json
 import discord
